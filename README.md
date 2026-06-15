@@ -23,10 +23,8 @@ Previously: a complete WES pharmacogenomics pipeline across AFR, EAS, EUR, and S
 ### ✦ Sela-Hi — *Word. Psych. Meditate.*
 A Christian word-meditation platform I'm building from scratch. It combines a hand-curated dataset of 771 theological meditation words, AI-powered semantic Bible search over 31,102 KJV verses, and a depth-psychology framework (Jungian archetypes) as a lens for honest self-examination before Scripture. Built with Next.js, Supabase, and Vercel.
 
-[→ See the project](./sela-hi)
-
 ### ✍️ Writing & Theology
-I've run a Christian blog for over a year — theologically dense, emotionally honest, sometimes raw. I'm also writing a nonfiction book on the fallen nature of man and humanity's incapacity for genuine goodness apart from God. Not a comfortable project. The most important ones rarely are.
+I've run a Christian blog for over a year — theologically dense, emotionally honest, sometimes raw. I write theology on a personal blog — theologically dense, emotionally honest, sometimes uncomfortable. The longer work is in progress.
 
 ---
 
@@ -42,7 +40,6 @@ I didn't come to computing through the traditional route. I came through patient
 
 - 🔬 Building HPC infrastructure for a 1,019-sample CYP450 pharmacogenomics study (1KG ONT Vienna dataset)
 - 🏗️ Developing Sela-Hi — cloud-based, learning as I go
-- 📖 Writing a theological book on human nature and the necessity of grace
 - 📡 Based in Kampala, Uganda · East Africa Time (UTC+3)
 
 ---
@@ -52,7 +49,7 @@ I didn't come to computing through the traditional route. I came through patient
 - Nursing taught me that data has a face. Genomics taught me that the face has a genome. Theology taught me that the genome is not the whole story.
 - I debug SLURM array jobs and Jungian archetypes with equal seriousness.
 - I believe the best ideas come at night, which is inconvenient but true.
-- First class honours doesn't mean I always know what I'm doing. It means I'm stubborn about figuring it out.
+- this sharp pivot in field doesnt mean I always know what I'm doing. It means I'm stubborn about figuring it out.
 
 ---
 
